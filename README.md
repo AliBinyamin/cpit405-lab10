@@ -100,16 +100,16 @@ http://localhost/2238103-AliBinyamin-cpit405-lab-assignment3/views/page1.php
 ## 📸 Screenshots (UI Preview)
 
 ### **1️⃣ Products Manager (CRUD + Stats UI)**
-![Products Manager](screenshots/p1.jpeg)
+![Products Manager](screenshots/p1.png)
 
 ### **2️⃣ Databases Viewer (SHOW DATABASES)**
-![Databases Page](screenshots/p2.jpeg)
+![Databases Page](screenshots/p2.png)
 
 ### **3️⃣ Power Tool – Recursive Function**
-![Power Tool](screenshots/p3.jpeg)
+![Power Tool](screenshots/p3.png)
 
 ### **4️⃣ UML → PHP OOP Demo (Person / Professor)**
-![OOP Demo](screenshots/p4.jpeg)
+![OOP Demo](screenshots/p4.png)
 
 ---
 
